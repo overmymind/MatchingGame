@@ -15,4 +15,4 @@ Matching Game- это простая игра. Она развивает пам�
 ​Мысленно дели поле на зоны: Привязывай картинку к конкретному углу или ряду.
 ​Не спеши: Сначала вспомни, где ты уже видел открытую картинку, и только потом переворачивай вторую карточку.
 # Интерфейс игры, Интерфейс при победе:
-<img width="491" height="543" alt="image" src="https://github.com/user-attachments/assets/100d3a8a-39d1-47a8-ad70-fcee5355b200" /> <img width="495" height="544" alt="image" src="https://github.com/user-attachments/assets/3e03fb7a-a333-42c1-8033-8a3f7d7bba08" />
+<img width="491" height="543" alt="image" src="https://github.com/user-attachments/assets/100d3a8a-39d1-47a8-ad70-fcee5355b200" /> <img width="491" height="543" alt="image" src="https://github.com/user-attachments/assets/3e03fb7a-a333-42c1-8033-8a3f7d7bba08" />
